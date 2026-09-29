@@ -31,11 +31,11 @@ Atualmente estou focado em desenvolver minha carreira na área de **Infraestrutu
 
 * Git & GitHub
 * VS Code
-* Neovim
+* Docker / Ansible  
 * GLPI
 * Jira
 * Google Workspace
-* GStreamer
+* Active-Directory / Domain-Controller
 
 ## 🚀 Projetos
 
