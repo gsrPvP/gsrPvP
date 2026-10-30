@@ -31,17 +31,13 @@ Atualmente estou focado em desenvolver minha carreira na área de **Desenvolvime
 ### Ferramentas
 
 * Git & GitHub
-* VS Code
+* MySql, MariaDB, SQLite
 * Docker / Ansible  
 * GLPI
 * Google Workspace
 * Active-Directory / Domain-Controller
 
 ## 🚀 Projetos
-
-### 🎮 Mobile-Rogue
-
-Jogo 2D desenvolvido em **C**, utilizando **raylib e CMake**, com foco em arquitetura modular, sistemas de entidades, torres, cartas e gameplay roguelike.
 
 ### 📺 Media Center
 
