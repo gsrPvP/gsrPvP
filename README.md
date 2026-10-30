@@ -1,10 +1,10 @@
-# Olá! 👋 Eu sou o Guilherme
+# Olá!  Eu sou o Guilherme
 
 🎓 Estudante de **Ciência da Computação** na UNIP
-💻 Estagiário de **Infraestrutura e Suporte de TI**
+💻 Desenvolvedor de Software **| C | Python | Bash**
 🐧 Entusiasta de **Linux, sistemas e programação de baixo nível**
 
-Atualmente estou focado em desenvolver minha carreira na área de **Infraestrutura, Sistemas e DevOps**, enquanto aprofundo meus conhecimentos em programação e administração de ambientes Linux.
+Atualmente estou focado em desenvolver minha carreira na área de **Desenvolvimentos de Sistemas e DevOps**, enquanto aprofundo meus conhecimentos em programação e administração de ambientes Linux.
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -22,6 +22,7 @@ Atualmente estou focado em desenvolver minha carreira na área de **Infraestrutu
 
 * C / C++
 * Python
+* SQL
 * Bash / Shell Script
 * APIs REST
 * Sockets e comunicação entre processos
@@ -33,7 +34,6 @@ Atualmente estou focado em desenvolver minha carreira na área de **Infraestrutu
 * VS Code
 * Docker / Ansible  
 * GLPI
-* Jira
 * Google Workspace
 * Active-Directory / Domain-Controller
 
@@ -47,11 +47,12 @@ Jogo 2D desenvolvido em **C**, utilizando **raylib e CMake**, com foco em arquit
 
 Projeto de um media center próprio para um mini PC Linux, com:
 
-* Backend em Python/Flask
+* Backend em C
+* Api/Frontend em Python, js, html, css com Flask
 * API REST
-* Comunicação entre processos via Unix Sockets
+* Comunicação entre processos via Web Socket
 * Reprodução de mídia utilizando GStreamer/C
-* Interface web para gerenciamento dos arquivos
+* Interface web para acessar a página com catalogo, cadastro e controle de reprodução dos filmes.
 
 ### 🖥️ Monitoring & Backup Agent
 
